@@ -1,4 +1,4 @@
-Este é um projeto para fazer o build na Vercel de um webapp fornecido por eles criado em React, Next e Taiwind.
+Este é um projeto teste onde foi feito o deploy na Vercel de um webapp fornecido por eles e criado em React, Next e Taiwind.
 
 ## Getting Started
 
